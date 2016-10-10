@@ -7,13 +7,13 @@
 
 # Site settings
 title: Shubin's Strategy
-email: shubin13@gmail.com
+email: 
 description: > # this means to ignore newlines until "baseurl:"
   Just some basic web testing.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: Nick_Shubin
-github_username:  NickShubin
+twitter_username: 
+github_username:  
 
 # Build settings
 markdown: kramdown
